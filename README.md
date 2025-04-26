@@ -64,7 +64,7 @@ Saya terbiasa bekerja dalam tim, beradaptasi dengan kebutuhan visual yang berbed
           <img src="3_20250426_182806_0001.png" alt="Photo" class="mb-3 rounded">
           </a>
           <h3 class="text-lg font-medium">Product Photography - Wardah</h3>
-          <p class="text-sm text-gray-600">Mengikuti sesi praktik fotografi produk untuk mengenal lebih dalam teknik pencahayaan, penataan objek, dan pengambilan gambar produk dengan hasil yang menarik secara visual. Digunakan sebagai materi belajar sekaligus aset untuk kebutuhan konten promosi studio.</p>
+          <p class="text-sm text-gray-600">Membuat desain visual untuk berbagai merchandise seperti kaus, totebag, dan pin/gantungan kunci yang digunakan sebagai bagian dari branding Studio Foto Nayaka. Proses kerja mencakup pembuatan konsep, desain, hingga mockup digital untuk keperluan produksi.</p>
         </div>
         <!-- Ulangi untuk karya lain -->
       </div>
