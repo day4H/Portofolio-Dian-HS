@@ -32,7 +32,25 @@ Selama magang di Studio Foto Nayaka, saya terlibat dalam pembuatan desain mercha
 Saya terbiasa bekerja dalam tim, beradaptasi dengan kebutuhan visual yang berbeda, dan mengutamakan hasil yang detail dan komunikatif. Saya siap berkontribusi di bidang kreatif, khususnya desain visual, fotografi, dan konten digital.</p>
   </section>  <!-- Portofolio -->  <section id="portofolio" class="py-20 bg-gray-100">
     <div class="max-w-6xl mx-auto px-4">
-      <h2 class="text-3xl font-semibold mb-10 text-center">Portofolio</h2>
+      <h2 class="text-3xl font-semibold mb-10 text-center">Portofolio - Magang</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <!-- Tambahkan karya kamu di sini -->
+        <div class="bg-white p-4 shadow rounded">
+          <a href="20250426_182458_0000.png" data-lightbox="galeri" data-title="Product Photography">
+            <a href="2_20250426_182806_0000.png" data-lightbox="galeri" data-title="Product Photography">
+             <a href="3_20250426_182806_0001.png" data-lightbox="galeri" data-title="Product Photography"> 
+            <img src="20250426_182458_0000.png" alt="Photo" class="mb-3 rounded">
+          </a>
+          <img src="2_20250426_182806_0000.png" alt="Photo" class="mb-3 rounded">
+          </a>
+          <img src="3_20250426_182806_0001.png" alt="Photo" class="mb-3 rounded">
+          </a>
+          <h3 class="text-lg font-medium">Product Photography - Wardah</h3>
+          <p class="text-sm text-gray-600">Mengikuti sesi praktik fotografi produk untuk mengenal lebih dalam teknik pencahayaan, penataan objek, dan pengambilan gambar produk dengan hasil yang menarik secara visual. Digunakan sebagai materi belajar sekaligus aset untuk kebutuhan konten promosi studio.</p>
+        </div>
+        </section>  <!-- Portofolio -->  <section id="portofolio" class="py-20 bg-gray-100">
+    <div class="max-w-6xl mx-auto px-4">
+      <h2 class="text-3xl font-semibold mb-10 text-center">Portofolio - Magang</h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         <!-- Tambahkan karya kamu di sini -->
         <div class="bg-white p-4 shadow rounded">
