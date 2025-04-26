@@ -36,8 +36,8 @@ Saya terbiasa bekerja dalam tim, beradaptasi dengan kebutuhan visual yang berbed
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         <!-- Tambahkan karya kamu di sini -->
         <div class="bg-white p-4 shadow rounded">
-          <a href="img/desain1.jpg" data-lightbox="galeri" data-title="Product Photography">
-            <img src="img/desain1.jpg" alt="Photo" class="mb-3 rounded">
+          <a href="DSC09458.jpg" data-lightbox="galeri" data-title="Product Photography">
+            <img src="DSC09458.jpg" alt="Photo" class="mb-3 rounded">
           </a>
           <h3 class="text-lg font-medium">Wardah Photography</h3>
           <p class="text-sm text-gray-600">Mengikuti sesi praktik fotografi produk untuk mengenal lebih dalam teknik pencahayaan, penataan objek, dan pengambilan gambar produk dengan hasil yang menarik secara visual. Digunakan sebagai materi belajar sekaligus aset untuk kebutuhan konten promosi studio.</p>
