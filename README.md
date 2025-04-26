@@ -66,6 +66,24 @@ Saya terbiasa bekerja dalam tim, beradaptasi dengan kebutuhan visual yang berbed
           <h3 class="text-lg font-medium">Desain & Mockup - Merchandise</h3>
           <p class="text-sm text-gray-600">Membuat desain visual untuk berbagai merchandise seperti kaus, totebag, dan pin/gantungan kunci yang digunakan sebagai bagian dari branding Studio Foto Nayaka. Proses kerja mencakup pembuatan konsep, desain, hingga mockup digital untuk keperluan produksi.</p>
         </div>
+        </section>  <!-- Portofolio -->  <section id="portofolio" class="py-20 bg-gray-100">
+    <div class="max-w-6xl mx-auto px-4">
+      <h2 class="text-3xl font-semibold mb-10 text-center">Portofolio - Magang</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+        <!-- Tambahkan karya kamu di sini -->
+        <div class="bg-white p-4 shadow rounded">
+          <a href="20250426_182938_0001.jpg" data-lightbox="galeri" data-title="Photography">
+            <a href="20250426_182852_0002.png" data-lightbox="galeri" data-title="Desain & Mockup">
+             <a href="20250426_182852_0000.png" data-lightbox="galeri" data-title="Desain & Mockup"> 
+            <img src="20250426_182938_0001.jpg" alt="Photo" class="mb-3 rounded">
+          </a>
+          <img src="20250426_182852_0002.png" alt="Photo" class="mb-3 rounded">
+          </a>
+          <img src="20250426_182852_0000.png" alt="Photo" class="mb-3 rounded">
+          </a>
+          <h3 class="text-lg font-medium">Desain & Mockup - Merchandise</h3>
+          <p class="text-sm text-gray-600">Membuat desain visual untuk berbagai merchandise seperti kaus, totebag, dan pin/gantungan kunci yang digunakan sebagai bagian dari branding Studio Foto Nayaka. Proses kerja mencakup pembuatan konsep, desain, hingga mockup digital untuk keperluan produksi.</p>
+        </div>
         <!-- Ulangi untuk karya lain -->
       </div>
     </div>
