@@ -54,16 +54,16 @@ Saya terbiasa bekerja dalam tim, beradaptasi dengan kebutuhan visual yang berbed
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         <!-- Tambahkan karya kamu di sini -->
         <div class="bg-white p-4 shadow rounded">
-          <a href="20250426_182852_0001.png" data-lightbox="galeri" data-title="Desain Mockup - Merchandise">
-            <a href="20250426_182852_0002.png" data-lightbox="galeri" data-title="Desain Mockup - Merchandise">
-             <a href="3_20250426_182806_0001.png" data-lightbox="galeri" data-title="Desain Mockup Merchandise"> 
+          <a href="20250426_182852_0001.png" data-lightbox="galeri" data-title="Desain & Mockup">
+            <a href="20250426_182852_0002.png" data-lightbox="galeri" data-title="Desain & Mockup">
+             <a href="20250426_182852_0000.png" data-lightbox="galeri" data-title="Desain & Mockup"> 
             <img src="20250426_182852_0001.png" alt="Photo" class="mb-3 rounded">
           </a>
           <img src="20250426_182852_0002.png" alt="Photo" class="mb-3 rounded">
           </a>
-          <img src="3_20250426_182806_0001.png" alt="Photo" class="mb-3 rounded">
+          <img src="20250426_182852_0000.png" alt="Photo" class="mb-3 rounded">
           </a>
-          <h3 class="text-lg font-medium">Product Photography - Wardah</h3>
+          <h3 class="text-lg font-medium">Desain & Mockup - Merchandise</h3>
           <p class="text-sm text-gray-600">Membuat desain visual untuk berbagai merchandise seperti kaus, totebag, dan pin/gantungan kunci yang digunakan sebagai bagian dari branding Studio Foto Nayaka. Proses kerja mencakup pembuatan konsep, desain, hingga mockup digital untuk keperluan produksi.</p>
         </div>
         <!-- Ulangi untuk karya lain -->
