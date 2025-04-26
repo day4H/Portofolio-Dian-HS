@@ -36,9 +36,9 @@ Saya terbiasa bekerja dalam tim, beradaptasi dengan kebutuhan visual yang berbed
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
         <!-- Tambahkan karya kamu di sini -->
         <div class="bg-white p-4 shadow rounded">
-          <a href="DSC09458.jpg" data-lightbox="galeri" data-title="Product Photography">
+          <a href="20250426_182458_0000.png" data-lightbox="galeri" data-title="Product Photography">
             <a href="SAVE_20250121_182334.jpg" data-lightbox="galeri" data-title="Product Photography">
-            <img src="DSC09458.jpg" alt="Photo" class="mb-3 rounded">
+            <img src="20250426_182458_0000.png" alt="Photo" class="mb-3 rounded">
           </a>
           <img src="SAVE_20250121_182334.jpg" alt="Photo" class="mb-3 rounded">
           </a>
