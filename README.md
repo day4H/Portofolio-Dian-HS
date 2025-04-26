@@ -82,7 +82,7 @@ Saya terbiasa bekerja dalam tim, beradaptasi dengan kebutuhan visual yang berbed
           <img src="20250426_182938_0002.jpg" alt="Photo" class="mb-3 rounded">
           </a>
           <h3 class="text-lg font-medium">Potrait/Personal Photography </h3>
-          <p class="text-sm text-gray-600">Membuat desain visual untuk berbagai merchandise seperti kaus, totebag, dan pin/gantungan kunci yang digunakan sebagai bagian dari branding Studio Foto Nayaka. Proses kerja mencakup pembuatan konsep, desain, hingga mockup digital untuk keperluan produksi.</p>
+          <p class="text-sm text-gray-600">Melakukan sesi fotografi personal, Menggunakan berbagai teknik pencahayaan seperti photobox untuk hasil foto dengan pencahayaan merata, serta spotlight untuk menciptakan efek dramatis pada subjek. Selain memotret orang lain, juga melakukan self-portrait untuk berlatih teknik pencahayaan, komposisi, dan pengaturan kamera secara mandiri.</p>
         </div>
         <!-- Ulangi untuk karya lain -->
       </div>
