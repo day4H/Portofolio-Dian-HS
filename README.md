@@ -55,11 +55,11 @@ Saya terbiasa bekerja dalam tim, beradaptasi dengan kebutuhan visual yang berbed
         <!-- Tambahkan karya kamu di sini -->
         <div class="bg-white p-4 shadow rounded">
           <a href="20250426_182852_0001.png" data-lightbox="galeri" data-title="Desain Mockup - Merchandise">
-            <a href="2_20250426_182806_0000.png" data-lightbox="galeri" data-title="Desain Mockup - Merchandise">
+            <a href="20250426_182852_0002.png" data-lightbox="galeri" data-title="Desain Mockup - Merchandise">
              <a href="3_20250426_182806_0001.png" data-lightbox="galeri" data-title="Desain Mockup Merchandise"> 
             <img src="20250426_182852_0001.png" alt="Photo" class="mb-3 rounded">
           </a>
-          <img src="2_20250426_182806_0000.png" alt="Photo" class="mb-3 rounded">
+          <img src="20250426_182852_0002.png" alt="Photo" class="mb-3 rounded">
           </a>
           <img src="3_20250426_182806_0001.png" alt="Photo" class="mb-3 rounded">
           </a>
